@@ -13,6 +13,10 @@
         {
           "path": "textures/atlas.png",
           "url": "https://github.com/jirosama67/Goboxs-releases/releases/download/v1.0.0/atlas.pngss"
+        },
+        {
+          "path": "glfw3.dll",
+          "url": "https://github.com/jirosama67/Goboxs-releases/releases/download/v1.0.0/glfw3.dll"
         }
       ]
     }
