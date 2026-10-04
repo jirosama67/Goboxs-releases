@@ -1,4 +1,8 @@
 {
+  "launcher": {
+    "version": "1.2.0",
+    "url": "https://github.com/jirosama67/Goboxs-releases/releases/download/goboxlauncher/Goboxlauncher.exe"
+  },
   "versions": [
     {
       "id": "classic",
