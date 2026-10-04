@@ -3,7 +3,7 @@
     {
       "id": "classic",
       "name": "GoBox Classic",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "launch": "GoBox.exe",
       "files": [
         {
